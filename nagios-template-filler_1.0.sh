@@ -1,5 +1,5 @@
 #!/bin/bash
-# wolf.halton@lyrasis.org
+# wolf@sourcefreedom.com
 echo "Welcome to the Nagios Server-template filler, $USER" 
 echo "   ^v----------------------------------------v^"
 if [ "$1" ]
