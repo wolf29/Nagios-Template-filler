@@ -3,6 +3,7 @@
 # Plugin to check free disk space
 # using check_by_ssh
 # by Markus Walther (voltshock@gmx.de)
+#   small contribution by Wolf Halton <wolf@sourcefreedom.com> to get it to look for directories rather than disk partitions
 # The script needs a working check_by_ssh connection and needs to run on the client to check it
 # 
 # Command-Line for check_by_ssh
